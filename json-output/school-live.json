@@ -1,0 +1,165 @@
+{
+    "urls": [
+        "https://school-live.com/connect",
+        "https://school-live.com/archives",
+        "https://school-live.com",
+        "https://school-live.com/"
+    ],
+    "seo_data": {
+        "https://school-live.com": {
+            "ssl_valid": true,
+            "robots_txt_valid": true,
+            "robots_txt_link": "https://school-live.com/robots.txt",
+            "sitemap_valid": false,
+            "sitemap_link": null,
+            "title": "School LIVE | The Magazine for Students and their Parents",
+            "description": "A renowned monthly magazine that goes to over 500 schools, pan India with a total readership of more than 1 lakh.",
+            "h1": [
+                "The Only Magazine for School Students & their Parents"
+            ],
+            "h2": [
+                "About School LIVE",
+                "Featured Issues",
+                "Institutional Members",
+                "Advertising with School LIVE"
+            ],
+            "h3": [],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 63,
+            "alt_count": 53,
+            "missing_alt_count": 10,
+            "link_count": 66,
+            "internal_link_count": 1,
+            "external_link_count": 64,
+            "missing_link_count": 1,
+            "word_count": 402,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://school-live.com",
+            "canonical_url": null,
+            "structured_data": null,
+            "social_meta": {
+                "title": "School LIVE | The Magazine for Students and their Parents",
+                "description": "A renowned monthly magazine that goes to over 500 schools, pan India with a total readership of more than 1 lakh.",
+                "type": "website"
+            },
+            "twitter_meta": {
+                "card": "summary",
+                "creator": "Himanshu Varshney",
+                "title": "School LIVE | The Magazine for Students and their Parents",
+                "description": "A renowned monthly magazine that goes to over 500 schools, pan India with a total readership of more than 1 lakh."
+            }
+        },
+        "https://school-live.com/": {
+            "title": "School LIVE | The Magazine for Students and their Parents",
+            "description": "A renowned monthly magazine that goes to over 500 schools, pan India with a total readership of more than 1 lakh.",
+            "h1": [
+                "The Only Magazine for School Students & their Parents"
+            ],
+            "h2": [
+                "About School LIVE",
+                "Featured Issues",
+                "Institutional Members",
+                "Advertising with School LIVE"
+            ],
+            "h3": [],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 63,
+            "alt_count": 53,
+            "missing_alt_count": 10,
+            "link_count": 66,
+            "internal_link_count": 1,
+            "external_link_count": 64,
+            "missing_link_count": 1,
+            "word_count": 402,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://school-live.com/",
+            "canonical_url": null,
+            "structured_data": null,
+            "social_meta": {
+                "title": "School LIVE | The Magazine for Students and their Parents",
+                "description": "A renowned monthly magazine that goes to over 500 schools, pan India with a total readership of more than 1 lakh.",
+                "type": "website"
+            },
+            "twitter_meta": {
+                "card": "summary",
+                "creator": "Himanshu Varshney",
+                "title": "School LIVE | The Magazine for Students and their Parents",
+                "description": "A renowned monthly magazine that goes to over 500 schools, pan India with a total readership of more than 1 lakh."
+            }
+        },
+        "https://school-live.com/connect": {
+            "title": "School LIVE | Reach out for Membership & Advertising",
+            "description": "Reach out to learn more about School LIVE magazine's content, reach and audience, institutional membership, individual subscriptions and advertising in the magazine.",
+            "h1": [
+                "Connect"
+            ],
+            "h2": [],
+            "h3": [],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 7,
+            "alt_count": 7,
+            "missing_alt_count": 0,
+            "link_count": 13,
+            "internal_link_count": 0,
+            "external_link_count": 13,
+            "missing_link_count": 0,
+            "word_count": 19,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://school-live.com/connect",
+            "canonical_url": null,
+            "structured_data": null,
+            "social_meta": {
+                "title": "School LIVE | Reach out for Membership & Advertising",
+                "description": "Reach out to learn more about School LIVE magazine's content, reach and audience, institutional membership, individual subscriptions and advertising in the magazine.",
+                "type": "website"
+            },
+            "twitter_meta": {
+                "card": "summary",
+                "creator": "Himanshu Varshney",
+                "title": "School LIVE | Reach out for Membership & Advertising",
+                "description": "Reach out to learn more about School LIVE magazine's content, reach and audience, institutional membership, individual subscriptions and advertising in the magazine."
+            }
+        },
+        "https://school-live.com/archives": {
+            "title": "School LIVE | The Magazine Rack",
+            "description": "Explore all issues of School LIVE magazine and get a sneak peak of the quality content on a variety of categories including international university admissions, Indian higher education, and innovative pedagogies.",
+            "h1": [
+                "Archives"
+            ],
+            "h2": [],
+            "h3": [],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 7,
+            "alt_count": 7,
+            "missing_alt_count": 0,
+            "link_count": 13,
+            "internal_link_count": 0,
+            "external_link_count": 13,
+            "missing_link_count": 0,
+            "word_count": 74,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://school-live.com/archives",
+            "canonical_url": null,
+            "structured_data": null,
+            "social_meta": {
+                "title": "School LIVE | The Magazine Rack",
+                "description": "Explore all issues of School LIVE magazine and get a sneak peak of the quality content on a variety of categories including international university admissions, Indian higher education, and innovative pedagogies.",
+                "type": "website"
+            },
+            "twitter_meta": {
+                "card": "summary",
+                "creator": "Himanshu Varshney",
+                "title": "School LIVE | The Magazine Rack",
+                "description": "Explore all issues of School LIVE magazine and get a sneak peak of the quality content on a variety of categories including international university admissions, Indian higher education, and innovative pedagogies."
+            }
+        }
+    }
+}

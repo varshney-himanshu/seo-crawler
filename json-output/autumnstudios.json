@@ -1,0 +1,36 @@
+{
+    "urls": [
+        "https://autumnstudios.com"
+    ],
+    "seo_data": {
+        "https://autumnstudios.com": {
+            "title": "Autumn Studios Photography",
+            "h1": [
+                "Autumn Studios Photography"
+            ],
+            "h2": [],
+            "h3": [],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 44,
+            "alt_count": 44,
+            "missing_alt_count": 0,
+            "link_count": 10,
+            "internal_link_count": 0,
+            "external_link_count": 10,
+            "missing_link_count": 0,
+            "word_count": 30,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://autumnstudios.com",
+            "canonical_url": "https://www.autumnstudios.com",
+            "structured_data": null,
+            "social_meta": {
+                "title": "Autumn Studios Photography",
+                "url": "https://www.autumnstudios.com",
+                "site_name": "Autumn Studios Photo",
+                "type": "website"
+            }
+        }
+    }
+}

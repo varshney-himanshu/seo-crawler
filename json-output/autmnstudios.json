@@ -1,0 +1,112 @@
+{
+    "urls": [
+        "https://autmnstudios.com",
+        "https://autmnstudios.com/"
+    ],
+    "seo_data": {
+        "https://autmnstudios.com": {
+            "5xx_error": null,
+            "4xx_error": null,
+            "performance_score_desktop": 99.0,
+            "performance_score_mobile": 92.0,
+            "alexa_rank": null,
+            "domain_age": null,
+            "ssl_valid": true,
+            "robots_txt_exist": true,
+            "robots_txt_link": "https://autmnstudios.com/robots.txt",
+            "robots_txt_valid": true,
+            "sitemap_exist": true,
+            "sitemap_link": "https://autmnstudios.com/sitemap.xml",
+            "sitemap_valid": true,
+            "sitemap_invalid_links": null,
+            "title": "Digital Marketing Agency in Delhi, India | SEO, Web Design & Consultancy - Autmn Studios",
+            "description": "Autmn Studios is a leading digital marketing agency in Delhi, India. We offer SEO, web design, and consultancy services to businesses. Contact us today.",
+            "h1": [
+                "Digital Marketing.Powerful Strategies. Maximum ROI."
+            ],
+            "h2": [
+                "our services",
+                "about us",
+                "contact"
+            ],
+            "h3": [
+                "Website Development",
+                "Digital marketing",
+                "Business Automation"
+            ],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 6,
+            "alt_count": 6,
+            "missing_alt_count": 0,
+            "link_count": 8,
+            "internal_link_count": 0,
+            "external_link_count": 8,
+            "missing_link_count": 0,
+            "word_count": 284,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/analysis?utm_source=psi&utm_medium=redirect&url=https://autmnstudios.com",
+            "canonical_url": null,
+            "structured_data": null,
+            "social_meta": {
+                "title": "Autmn Studios - Digital Marketing Agency in Delhi, India | SEO, Web Design & Consultancy Services",
+                "type": "website",
+                "url": "https://autmnstudios.com",
+                "image": "https://autmnstudios.com/preview-image.png"
+            },
+            "twitter_meta": {
+                "title": "European Travel Destinations ",
+                "description": "Autmn Studios is a leading digital marketing agency in Delhi, India. We offer SEO, web design, and consultancy services to businesses. Contact us today.",
+                "image": "https://autmnstudios.com/preview-image.png",
+                "card": "summary_large_image"
+            }
+        },
+        "https://autmnstudios.com/": {
+            "5xx_error": null,
+            "4xx_error": null,
+            "title": "Digital Marketing Agency in Delhi, India | SEO, Web Design & Consultancy - Autmn Studios",
+            "description": "Autmn Studios is a leading digital marketing agency in Delhi, India. We offer SEO, web design, and consultancy services to businesses. Contact us today.",
+            "h1": [
+                "Digital Marketing.Powerful Strategies. Maximum ROI."
+            ],
+            "h2": [
+                "our services",
+                "about us",
+                "contact"
+            ],
+            "h3": [
+                "Website Development",
+                "Digital marketing",
+                "Business Automation"
+            ],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 6,
+            "alt_count": 6,
+            "missing_alt_count": 0,
+            "link_count": 8,
+            "internal_link_count": 0,
+            "external_link_count": 8,
+            "missing_link_count": 0,
+            "word_count": 284,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/analysis?utm_source=psi&utm_medium=redirect&url=https://autmnstudios.com/",
+            "canonical_url": null,
+            "structured_data": null,
+            "social_meta": {
+                "title": "Autmn Studios - Digital Marketing Agency in Delhi, India | SEO, Web Design & Consultancy Services",
+                "type": "website",
+                "url": "https://autmnstudios.com",
+                "image": "https://autmnstudios.com/preview-image.png"
+            },
+            "twitter_meta": {
+                "title": "European Travel Destinations ",
+                "description": "Autmn Studios is a leading digital marketing agency in Delhi, India. We offer SEO, web design, and consultancy services to businesses. Contact us today.",
+                "image": "https://autmnstudios.com/preview-image.png",
+                "card": "summary_large_image"
+            }
+        }
+    }
+}

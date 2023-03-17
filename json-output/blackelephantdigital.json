@@ -1,0 +1,345 @@
+{
+    "urls": [
+        "https://blackelephantdigital.com/services/",
+        "https://blackelephantdigital.com/team/",
+        "https://blackelephantdigital.com/connect/",
+        "https://blackelephantdigital.com/studio/",
+        "https://blackelephantdigital.com/refund-cancellation/",
+        "https://blackelephantdigital.com/",
+        "https://blackelephantdigital.com/vo-directory/",
+        "https://blackelephantdigital.com/studio-booking/",
+        "https://blackelephantdigital.com",
+        "https://blackelephantdigital.com/connect",
+        "https://blackelephantdigital.com/careers/",
+        "https://blackelephantdigital.com/privacypolicy/",
+        "https://blackelephantdigital.com/terms-conditions/"
+    ],
+    "seo_data": {
+        "https://blackelephantdigital.com": {
+            "title": "Black Elephant Digital | Digital is Inevitable",
+            "description": "A full service digital marketing agency by Nitya Balagopal, offering bespoke strategic marketing solutions. Headquartered in Gurgaon, India.",
+            "h1": [],
+            "h2": [
+                "Testimonials & Featured Projects",
+                "Testimonials & Featured Projects",
+                "Partners",
+                "Stay in touch"
+            ],
+            "h3": [],
+            "h4": [
+                "REQUEST PORTFOLIO"
+            ],
+            "h5": [],
+            "h6": [],
+            "image_count": 34,
+            "alt_count": 28,
+            "missing_alt_count": 6,
+            "link_count": 39,
+            "internal_link_count": 0,
+            "external_link_count": 34,
+            "missing_link_count": 5,
+            "word_count": 253,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com"
+        },
+        "https://blackelephantdigital.com/services/": {
+            "title": "Services | Complete Media Solutions",
+            "description": "Bespoke strategic marketing services and digital, electronic and print media solutions to develop and amplify cohesive brand experiences.",
+            "h1": [
+                "360\u00cb\u009a StrategicMarketingfor Cohesive Brandsfree site auditrequest portfolio"
+            ],
+            "h2": [
+                "Digital Marketing Services",
+                "Print & Electronic Media"
+            ],
+            "h3": [],
+            "h4": [
+                "REQUEST PORTFOLIO",
+                "REQUEST PROPOSAL",
+                "REQUEST FREE SITE AUDIT"
+            ],
+            "h5": [],
+            "h6": [],
+            "image_count": 16,
+            "alt_count": 11,
+            "missing_alt_count": 5,
+            "link_count": 19,
+            "internal_link_count": 0,
+            "external_link_count": 19,
+            "missing_link_count": 0,
+            "word_count": 103,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com/services/"
+        },
+        "https://blackelephantdigital.com/studio/": {
+            "title": "Studios | Book Studio Hours",
+            "description": "Fully equipped, state-of-the-art sound recording studio in Gurgaon, with experienced sound engineers and excellent service. Book studios hours via online booking form.",
+            "h1": [],
+            "h2": [
+                "Services"
+            ],
+            "h3": [],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 21,
+            "alt_count": 11,
+            "missing_alt_count": 10,
+            "link_count": 24,
+            "internal_link_count": 0,
+            "external_link_count": 24,
+            "missing_link_count": 0,
+            "word_count": 159,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com/studio/"
+        },
+        "https://blackelephantdigital.com/connect/": {
+            "title": "Connect | Digital Marketing On-Demand",
+            "description": "Get in touch for a quote suited for your brand\u00e2\u0080\u0099s Scope of Work. Feedback and enquiries welcome. Response within 24 hours.",
+            "h1": [
+                "Connect"
+            ],
+            "h2": [
+                "Reach out to us today to explore how we can add value to your marketing and propel your brand towards business success.",
+                "BE Studios Location"
+            ],
+            "h3": [],
+            "h4": [
+                "REQUEST PORTFOLIO"
+            ],
+            "h5": [],
+            "h6": [],
+            "image_count": 18,
+            "alt_count": 12,
+            "missing_alt_count": 6,
+            "link_count": 19,
+            "internal_link_count": 1,
+            "external_link_count": 18,
+            "missing_link_count": 0,
+            "word_count": 84,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com/connect/"
+        },
+        "https://blackelephantdigital.com/careers/": {
+            "title": "",
+            "h1": [
+                "Careers"
+            ],
+            "h2": [
+                "Vacancies"
+            ],
+            "h3": [],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 15,
+            "alt_count": 12,
+            "missing_alt_count": 3,
+            "link_count": 17,
+            "internal_link_count": 0,
+            "external_link_count": 17,
+            "missing_link_count": 0,
+            "word_count": 62,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com/careers/"
+        },
+        "https://blackelephantdigital.com/studio-booking/": {
+            "title": "",
+            "h1": [
+                "Studio Booking"
+            ],
+            "h2": [],
+            "h3": [
+                "Date: 27-09-2022"
+            ],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 12,
+            "alt_count": 11,
+            "missing_alt_count": 1,
+            "link_count": 19,
+            "internal_link_count": 0,
+            "external_link_count": 19,
+            "missing_link_count": 0,
+            "word_count": 118,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com/studio-booking/"
+        },
+        "https://blackelephantdigital.com/team/": {
+            "title": "",
+            "h1": [
+                "Meet The Team"
+            ],
+            "h2": [
+                "Our Alumni"
+            ],
+            "h3": [],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 21,
+            "alt_count": 11,
+            "missing_alt_count": 10,
+            "link_count": 17,
+            "internal_link_count": 0,
+            "external_link_count": 17,
+            "missing_link_count": 0,
+            "word_count": 108,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com/team/"
+        },
+        "https://blackelephantdigital.com/connect": {
+            "title": "Connect | Digital Marketing On-Demand",
+            "description": "Get in touch for a quote suited for your brand\u00e2\u0080\u0099s Scope of Work. Feedback and enquiries welcome. Response within 24 hours.",
+            "h1": [
+                "Connect"
+            ],
+            "h2": [
+                "Reach out to us today to explore how we can add value to your marketing and propel your brand towards business success.",
+                "BE Studios Location"
+            ],
+            "h3": [],
+            "h4": [
+                "REQUEST PORTFOLIO"
+            ],
+            "h5": [],
+            "h6": [],
+            "image_count": 18,
+            "alt_count": 12,
+            "missing_alt_count": 6,
+            "link_count": 19,
+            "internal_link_count": 1,
+            "external_link_count": 18,
+            "missing_link_count": 0,
+            "word_count": 84,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com/connect"
+        },
+        "https://blackelephantdigital.com/privacypolicy/": {
+            "title": "",
+            "h1": [],
+            "h2": [
+                "Privacy Policy",
+                "Privacy Policy"
+            ],
+            "h3": [
+                "1. Terms",
+                "2. Use License",
+                "3. Disclaimer",
+                "4. Constraints",
+                "5. Amendments and Errata",
+                "6. Links",
+                "7. Site Terms of Use Modifications",
+                "8. Governing Law"
+            ],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 12,
+            "alt_count": 11,
+            "missing_alt_count": 1,
+            "link_count": 17,
+            "internal_link_count": 0,
+            "external_link_count": 17,
+            "missing_link_count": 0,
+            "word_count": 875,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com/privacypolicy/"
+        },
+        "https://blackelephantdigital.com/": {
+            "title": "Black Elephant Digital | Digital is Inevitable",
+            "description": "A full service digital marketing agency by Nitya Balagopal, offering bespoke strategic marketing solutions. Headquartered in Gurgaon, India.",
+            "h1": [],
+            "h2": [
+                "Testimonials & Featured Projects",
+                "Testimonials & Featured Projects",
+                "Partners",
+                "Stay in touch"
+            ],
+            "h3": [],
+            "h4": [
+                "REQUEST PORTFOLIO"
+            ],
+            "h5": [],
+            "h6": [],
+            "image_count": 34,
+            "alt_count": 28,
+            "missing_alt_count": 6,
+            "link_count": 39,
+            "internal_link_count": 0,
+            "external_link_count": 34,
+            "missing_link_count": 5,
+            "word_count": 253,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com/"
+        },
+        "https://blackelephantdigital.com/vo-directory/": {
+            "title": "",
+            "h1": [
+                "Voice Over Directory"
+            ],
+            "h2": [],
+            "h3": [],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 12,
+            "alt_count": 11,
+            "missing_alt_count": 1,
+            "link_count": 17,
+            "internal_link_count": 0,
+            "external_link_count": 17,
+            "missing_link_count": 0,
+            "word_count": 107,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com/vo-directory/"
+        },
+        "https://blackelephantdigital.com/refund-cancellation/": {
+            "title": "",
+            "h1": [
+                "Refund and Cancellation Policy"
+            ],
+            "h2": [],
+            "h3": [],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 12,
+            "alt_count": 11,
+            "missing_alt_count": 1,
+            "link_count": 17,
+            "internal_link_count": 0,
+            "external_link_count": 17,
+            "missing_link_count": 0,
+            "word_count": 97,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com/refund-cancellation/"
+        },
+        "https://blackelephantdigital.com/terms-conditions/": {
+            "title": "",
+            "h1": [],
+            "h2": [
+                "Terms & Conditions"
+            ],
+            "h3": [
+                "Our Facilities",
+                "Studio Booking Cost",
+                "GST"
+            ],
+            "h4": [],
+            "h5": [],
+            "h6": [],
+            "image_count": 12,
+            "alt_count": 11,
+            "missing_alt_count": 1,
+            "link_count": 17,
+            "internal_link_count": 0,
+            "external_link_count": 17,
+            "missing_link_count": 0,
+            "word_count": 540,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/report?utm_source=psi&utm_medium=redirect&url=https://blackelephantdigital.com/terms-conditions/"
+        }
+    }
+}

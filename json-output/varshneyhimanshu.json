@@ -1,0 +1,35 @@
+{
+    "urls": [
+        "https://varshneyhimanshu.com"
+    ],
+    "seo_data": {
+        "https://varshneyhimanshu.com": {
+            "5xx_error": null,
+            "4xx_error": null,
+            "performance_score_desktop": 87.0,
+            "performance_score_mobile": 72.0,
+            "alexa_rank": null,
+            "domain_age": null,
+            "ssl_valid": true,
+            "robots_txt_exist": true,
+            "robots_txt_link": "https://varshneyhimanshu.com/robots.txt",
+            "robots_txt_valid": true,
+            "sitemap_exist": true,
+            "sitemap_link": "https://varshneyhimanshu.com/sitemap.xml",
+            "sitemap_valid": true,
+            "sitemap_invalid_links": null,
+            "title": "Himanshu Varshney | Full-Stack Developer",
+            "description": "Full-Stack Web Developer and Graphic Designer. I am very passionate about solving problems, and always  strive to better my self as a developer",
+            "keywords": "Web design,website design,website builder,react js developer,how to create website, freelance web developer,full stack,himanshu varshney",
+            "word_count": 13,
+            "mobile_friendly": true,
+            "speed": "https://pagespeed.web.dev/analysis?utm_source=psi&utm_medium=redirect&url=https://varshneyhimanshu.com",
+            "canonical_url": null,
+            "structured_data": [
+                "{\n      \"@context\": \"https://schema.org/\",\n      \"@type\": \"Person\",\n      \"name\": \"Himanshu Varshney\",\n      \"url\": \"https://himanshuvarshney.works/\",\n      \"image\": \"\",\n      \"sameAs\": [\n        \"https://www.facebook.com/thisishimanshuvarshney\",\n        \"https://www.github.com/varshney-himanshu\",\n        \"https://www.linkedin.com/in/varshney-himanshu\",\n        \"https://himanshuvarshney.works/\"\n      ],\n      \"jobTitle\": \"Full-Stack Web Developer\"\n    }"
+            ],
+            "social_meta": null,
+            "twitter_meta": null
+        }
+    }
+}
