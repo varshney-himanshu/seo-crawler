@@ -11,7 +11,7 @@ import time
 import xml.etree.ElementTree as ET
 
 seo_data = {}
-page_insights_key = "AIzaSyDVXWEVl9TrlvqvVkL-9aVPjYTZuOYF7Y8"
+page_insights_key = "<page insight key>"
 
 def crawl_website(base_url, delay=1):
     """
